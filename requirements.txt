@@ -12,3 +12,4 @@ psycopg2-binary
 setuptools
 wheel
 cython
+ml_dtypes
