@@ -4,6 +4,7 @@ torch
 torchvision
 facenet-pytorch
 insightface==0.7.3
+onnx==1.15.0
 onnxruntime
 pillow
 scikit-learn
@@ -12,4 +13,3 @@ psycopg2-binary
 setuptools
 wheel
 cython
-ml_dtypes
