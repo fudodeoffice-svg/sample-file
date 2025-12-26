@@ -1,0 +1,14 @@
+streamlit
+numpy<2.0.0
+torch
+torchvision
+facenet-pytorch
+insightface==0.7.3
+onnxruntime
+pillow
+scikit-learn
+opencv-python-headless
+psycopg2-binary
+setuptools
+wheel
+cython
